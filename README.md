@@ -1,7 +1,9 @@
+![image](https://github.com/SeoWooHyuk/SeoWooHyuk/assets/112370096/1cd0ec24-d825-4eae-ab53-24995994e366)
 ### Hi there 👋
 
 <!--
 **SeoWooHyuk/SeoWooHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/SeoWooHyuk/SeoWooHyuk/assets/112370096/3af0116a-ecd2-488d-a3d7-843aa12d0679)
 
 Here are some ideas to get you started:
 
