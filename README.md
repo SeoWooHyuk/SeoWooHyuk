@@ -1,5 +1,5 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&text=⚡Woo-Hyuk-world&fontAlign=60&&fontSize=40&fontAlignY=30&fontColor=000000&animation=fadeIn) 
+
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Woo-Hyuk-world&fontAlign=60&&fontSize=40&fontAlignY=30&fontColor=000000&animation=fadeIn) 
 <!--
 **SeoWooHyuk/SeoWooHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://github.com/SeoWooHyuk/SeoWooHyuk/assets/112370096/3af0116a-ecd2-488d-a3d7-843aa12d0679)
