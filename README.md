@@ -1,4 +1,4 @@
-
+<div align="center"> 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Woo-Hyuk-world&fontAlign=60&&fontSize=40&fontAlignY=30&fontColor=ffff&animation=fadeIn&color=gradient) 
 
 ####  :clipboard: Once I've Used 
@@ -16,6 +16,12 @@
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+
+</>
+
+
+
+
 <!--
 **SeoWooHyuk/SeoWooHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://github.com/SeoWooHyuk/SeoWooHyuk/assets/112370096/3af0116a-ecd2-488d-a3d7-843aa12d0679)
