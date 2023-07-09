@@ -1,4 +1,3 @@
-![image](https://github.com/SeoWooHyuk/SeoWooHyuk/assets/112370096/1cd0ec24-d825-4eae-ab53-24995994e366)
 ### Hi there 👋
 
 <!--
