@@ -40,7 +40,7 @@ e-mail: tjdngur123@naver.com
 
 <img src="https://img.shields.io/badge/filezilla-BF0000?style=flat&logo=filezilla&logoColor=#BF0000"/>
 
-<img src="https://img.shields.io/badge/putty-181717?style=flat&logo=putty&logoColor=#181717"/>
+<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=#FF6C37"/>
 <img src="https://img.shields.io/badge/putty-181717?style=flat&logo=putty&logoColor=#181717"/>
 
 
