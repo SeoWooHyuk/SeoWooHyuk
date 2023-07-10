@@ -33,7 +33,8 @@ e-mail: tjdngur123@naver.com
 💻workout Tooling <br>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=#4479A1"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
+
+<img src="https://img.shields.io/badge/visualstudiocode-181717?style=flat&logo=visualstudiocode&logoColor=#181717"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
 
