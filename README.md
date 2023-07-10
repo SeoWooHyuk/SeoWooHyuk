@@ -42,10 +42,11 @@ e-mail: tjdngur123@naver.com
 <img src="https://img.shields.io/badge/filezilla-BF0000?style=flat&logo=filezilla&logoColor=#BF0000"/>
 
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=#FF6C37"/>
-<img src="https://img.shields.io/badge/DBeaver-181717?style=flat&logo=DBeaver&logoColor=#181717"/>
+<img src="https://img.shields.io/badge/DBeaver-181717?style=flat&logo=DBeaver&logoColor=#181717"/><br>
+<br>
 
-
-
+💻Environment <br>
+<img src="https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=#0078D6"/><br>
 
   
 
