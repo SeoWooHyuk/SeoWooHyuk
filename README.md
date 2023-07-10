@@ -36,7 +36,7 @@ e-mail: tjdngur123@naver.com
 
 <img src="https://img.shields.io/badge/visualstudiocode-181717?style=flat&logo=visualstudiocode&logoColor=#181717"/>
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=#2C2255"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
+<img src="https://img.shields.io/badge/putty-181717?style=flat&logo=putty&logoColor=#181717"/>
 
 
 
