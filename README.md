@@ -24,7 +24,7 @@ e-mail: tjdngur123@naver.com
 <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=flat&logo=jsonwebtokens&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=springsecurity&logoColor=#5A29E4"/>
 <br>
-<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=springsecurity&logoColor=#5A29E4"/>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=#0769AD"/>
 
 
 
