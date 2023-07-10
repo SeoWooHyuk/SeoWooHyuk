@@ -56,18 +56,13 @@ e-mail: tjdngur123@naver.com
 
 
  <br>
+</div>
+
 🏫 Training
 | 년도   | 교육과정   | 비고   | 
 |---|---|---|
 | 2022.12.12| 기업의 수요를 반영한 자바 및 스프링 프레임워크 기반 풀스택 개발자 과정 수료 | 2022.12.12~2023.06.13 (984시간, in 그린아이티아카데미학원)   |
 
-  
-
-
-
-
-
-</div>
 
 <!--
 **SeoWooHyuk/SeoWooHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
