@@ -15,7 +15,7 @@ e-mail: tjdngur123@naver.com
  <br>
 
 tech stact <br>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=springboot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/springboot-green?style=flat&logo=springboot&logoColor=#6DB33F"/>
 
 
   
