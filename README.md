@@ -6,6 +6,9 @@
 
 
 <div align="center"> 
+반갑습니다. <br>
+제이름은 서우혁이고 백엔드를 공부하고있습니다.
+ 
 📞 Contact Me <br>
 e-mail: tjdngur123@naver.com
 
