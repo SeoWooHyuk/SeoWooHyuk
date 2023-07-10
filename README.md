@@ -52,7 +52,7 @@ e-mail: tjdngur123@naver.com
  <br>
 💻Environment <br>
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=#000000"/><br>
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=#FF9900"/><br>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=#F24E1E"/><br>
   
 
 
