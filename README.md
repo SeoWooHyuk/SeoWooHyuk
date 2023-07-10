@@ -49,6 +49,10 @@ e-mail: tjdngur123@naver.com
 <img src="https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=#0078D6"/>
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=#FF9900"/><br>
 
+ <br>
+💻Environment <br>
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=#000000"/><br>
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=#FF9900"/><br>
   
 
 
