@@ -53,6 +53,14 @@ e-mail: tjdngur123@naver.com
 💻ETC <br>
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=#F24E1E"/><br>
+
+
+ <br>
+🏫 Training
+| 년도   | 교육과정   | 비고   | 
+|---|---|---|
+| 2022.12.12| 기업의 수요를 반영한 자바 및 스프링 프레임워크 기반 풀스택 개발자 과정 수료 | 2022.12.12~2023.06.13 (984시간, in 그린아이티아카데미학원)   |
+
   
 
 
