@@ -21,7 +21,7 @@ e-mail: tjdngur123@naver.com
 <img src="https://img.shields.io/badge/springboot-green?style=flat&logo=springboot&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/spring-green?style=flat&logo=spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/springsecurity-green?style=flat&logo=springsecurity&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/jsonwebtokens-green?style=flat&logo=springsecurity&logoColor=##000000"/>
+<img src="https://img.shields.io/badge/jsonwebtokens?style=flat&logo=springsecurity&logoColor=##000000"/>
 
 
   
