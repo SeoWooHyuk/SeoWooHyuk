@@ -29,7 +29,12 @@ e-mail: tjdngur123@naver.com
 <img src="https://img.shields.io/badge/jsp-0769AD?style=flat&logo=jsp&logoColor=#0769AD"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=#61DAFB"/> <br>
 
+<br>
 💻workout Tooling <br>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=#4479A1"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=#181717"/>
 
 
