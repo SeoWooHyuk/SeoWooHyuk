@@ -63,7 +63,7 @@ e-mail: tjdngur123@naver.com
 |---|---|---|
 | 2022.12.12| 기업의 수요를 반영한 자바 및 스프링 프레임워크 기반 풀스택 개발자 과정 수료 | 2022.12.12~2023.06.13 (123일, in 그린아이티아카데미학원)   |
 
-
+비고.. 노트북 d드라이브 하드디스크 수명.사망 하드디스크 수명 3년... 내노트북 사용 7년..ㅠㅠㅠ
 <!--
 **SeoWooHyuk/SeoWooHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://github.com/SeoWooHyuk/SeoWooHyuk/assets/112370096/3af0116a-ecd2-488d-a3d7-843aa12d0679)
