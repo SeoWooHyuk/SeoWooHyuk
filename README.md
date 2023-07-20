@@ -66,6 +66,8 @@ e-mail: tjdngur123@naver.com
 비고.. 노트북 d드라이브 하드디스크 수명.사망 하드디스크 평균 수명은 6년 9개월년... 
 내노트북 사용 7년.. 교체주기 생각해서 빽업을 잘해놓자
 
+기록: ssd 평균수명 12.6년 
+
 
 <!--
 **SeoWooHyuk/SeoWooHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
